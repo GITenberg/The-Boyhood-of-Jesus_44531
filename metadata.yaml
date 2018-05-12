@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44531#The-Boyhood-of-Jesus
 gutenberg_issued: '2013-12-28'
 gutenberg_type: Text
 identifiers:
